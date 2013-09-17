@@ -7,4 +7,13 @@ __history
 *.map
 *.exe
 *.dll
-bin/*
+*.torrent
+/upload_1.2.7
+/upload_1.4_rc1
+/upload_1.2.8
+/upload_1.3
+/upload_1.4
+/upload_1.4.3
+/upload_1.4.4
+
+/nixspam.blackmatches
