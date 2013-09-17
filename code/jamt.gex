@@ -1,0 +1,14 @@
+[General]
+Name=jamt
+Project=1
+[Classes]
+Count=9
+Class0="Tfrm_main","TForm","unt_main","0","E:\projekte\jamt\code\unt_main.pas"
+Class1="Tdm_main","TDataModule","unt_dmmain","10","E:\projekte\jamt\code\unt_dmmain.pas"
+Class2="Tfrm_info","TForm","unt_info","0","E:\projekte\jamt\code\unt_info.pas"
+Class3="TGlobals","","unt_globals","9","E:\projekte\jamt\code\unt_globals.pas"
+Class4="Tfrm_mail","TForm","unt_mail","0","E:\projekte\jamt\code\unt_mail.pas"
+Class5="Tfrm_options","TForm","unt_options","0","E:\projekte\jamt\code\unt_options.pas"
+Class6="Tfrm_transfer","TForm","unt_transfer","0","E:\projekte\jamt\code\unt_transfer.pas"
+Class7="Tfrm_splash","TForm","unt_splash","0","E:\projekte\jamt\code\unt_splash.pas"
+Class8="TfrmFilter","TForm","unt_filter","11","E:\projekte\jamt\code\unt_filter.pas"

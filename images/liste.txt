@@ -1,0 +1,21 @@
+16x16
+ 0 - attach.bmp
+ 1 - delete.bmp 
+ 2 - exit.bmp
+ 3 - firew_16.bmp
+ 4 - getlist.bmp
+ 5 - info.bmp
+ 6 - lang.bmp
+ 7 - langu.bmp
+ 8 - mailbox2.bmp
+ 9 - mailopen.bmp
+10 - ok.bmp
+11 - preview.bmp
+12 - printer.bmp
+13 - options.bmp
+14 - mailbox.bmp (gr)
+
+322x322
+ 0 - firewall.bmp (gr)
+ 1 - firewall.bmp
+ 2 - lang.bmp  
